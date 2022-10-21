@@ -1,0 +1,6 @@
+:root {
+    --maincolour: #FEC2DB;
+    --secondarycolour: #FE9ABE;
+    --goldhighlights: #C9AE5D;
+    --primaryselected: var(--goldhighlights); 
+}

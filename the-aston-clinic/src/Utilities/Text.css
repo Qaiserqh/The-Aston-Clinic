@@ -1,0 +1,13 @@
+.FontText{
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+.red{
+    color: red;
+}
+
+.textAlignleft {
+    text-align: left;
+}

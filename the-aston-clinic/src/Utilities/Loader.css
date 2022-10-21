@@ -1,0 +1,14 @@
+.pos-center{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.mtop{
+    margin-top: 150px;
+}
